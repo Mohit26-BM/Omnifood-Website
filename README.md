@@ -1,4 +1,4 @@
-# 🍽️ Omnifood: AI-Powered Meal Delivery - Landing Page
+# 🍽️ Omnifood: AI-Powered Meal Delivery
 
 This repository contains a fully responsive, modern **landing page** for **Omnifood**, an AI-powered subscription service that delivers healthy meals all year round. Built using **HTML5** and **CSS3**, this project focuses on clean design, responsiveness, and strong UX/UI principles.
 
